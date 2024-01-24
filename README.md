@@ -12,6 +12,6 @@ Data for this project was sourced from the UK Government website, and Microsoft 
 Outcome:
 The project's outcome is visualized through the attached dashboard and accompanying data model. The analysis provides a nuanced understanding of UK fire statistics, offering valuable insights for policymakers, emergency responders, and the general public.
 
-![Fire](https://github.com/Dammy-code/UK_FIRE_STATISTICS_EXCEL/assets/60473801/99602bdb-a342-4d63-ade0-e0544deca861)
+![Fire Dashboard](https://github.com/Dammy-code/UK_FIRE_STATISTICS_EXCEL/assets/60473801/18b154cc-c369-4dc5-8f3e-fedfc5a4326b)
 
 ![Fire Model](https://github.com/Dammy-code/UK_FIRE_STATISTICS_EXCEL/assets/60473801/38558f83-8bbb-4179-a867-014cb45bd203)
